@@ -26,9 +26,9 @@ def logarithm(a, b):
         raise ValueError("Cannot use a negative number")
     
     if a == 1:
-        raise ValueError("Argument cannot be exactly 1.")
+        raise ValueError("Base cannot be exactly 1.")
     
-    return math.log(a, b)
+    return math.log(b, a)
 
 def exp(a, b):
     return a**b
