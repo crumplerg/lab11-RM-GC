@@ -1,3 +1,7 @@
+# https://github.com/crumplerg/lab11-RM-GC
+# Partner 1: Grace Crumpler
+# Partner 2: Rocco Munoz
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
